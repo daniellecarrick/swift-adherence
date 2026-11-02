@@ -1,6 +1,15 @@
 # Swift Bank Adherence
 
+[![GitHub Pages](https://img.shields.io/badge/Pages-live-brightgreen)](https://daniellecarrick.github.io/swift-adherence/)
+
 A coded prototype of an office-adherence dashboard for a fictional global bank, built for a product case study. Every number is computed in the browser from a seeded dataset, so every visitor sees the same story.
+
+## Live demo
+
+This app is hosted on GitHub Pages:
+
+- Site: https://daniellecarrick.github.io/swift-adherence/
+- Repo: https://github.com/daniellecarrick/swift-adherence
 
 ## Run it
 
